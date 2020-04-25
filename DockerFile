@@ -1,0 +1,4 @@
+FROM livingobjects/jre8
+COPY . /mc
+WORKDIR /mc
+ENTRYPOINT ["java","-jar","forge-1.12.2-14.23.5.2768-universal.jar"]

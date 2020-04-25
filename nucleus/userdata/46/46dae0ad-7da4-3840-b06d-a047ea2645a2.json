@@ -1,0 +1,39 @@
+{
+  "lastKnownName": "117503445",
+  "lastLocation": {
+    "world": "38f9ac99-3952-4ac2-a85a-b35a7fec4b81",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": -42.5460857386567,
+    "y": 77.73746885698667,
+    "z": 211.39834766540636
+  },
+  "lastLogin": 1547834065580,
+  "lastLogout": 1547834168360,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1547833836400,
+  "startedFirstJoin": false,
+  "fly": false,
+  "mail": [],
+  "isFrozen": false,
+  "warnings": [],
+  "jailOnNextLogin": false,
+  "notes": [],
+  "invulnerable": false,
+  "vanish": false,
+  "kitLastUsedTime": {},
+  "powertoolToggle": true,
+  "powertools": {},
+  "homes": {
+    "home": {
+      "world": "38f9ac99-3952-4ac2-a85a-b35a7fec4b81",
+      "rotx": 0.0,
+      "rotz": 0.0,
+      "roty": 0.0,
+      "x": -46.11847986129749,
+      "y": 69.0,
+      "z": 286.6583055695375
+    }
+  }
+}
